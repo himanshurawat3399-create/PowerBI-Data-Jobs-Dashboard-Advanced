@@ -61,7 +61,7 @@ This report is organized into **two interactive dashboard pages**, providing bot
 
 ## 🏠 Page 1: Data Jobs Dashboard
 
-![Dashboard Overview](images/Dashboard-page1.gif)
+![Dashboard Overview](images/dashboard-page1.gif)
 
 The main dashboard provides a comprehensive overview of the global data job market. Users can quickly explore salary trends, hiring demand, and job distribution through interactive visuals.
 
@@ -95,7 +95,7 @@ The main dashboard provides a comprehensive overview of the global data job mark
 
 ## 🔍 Page 2: Job Title Drill-Through
 
-![Job Drill Through](images/Dashboard-page2.gif)
+![Job Drill Through](images/dashboard-page2.gif)
 
 The drill-through page allows users to explore detailed insights for an individual job title selected from the main dashboard.
 
