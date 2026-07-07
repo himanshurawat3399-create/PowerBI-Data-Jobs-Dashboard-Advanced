@@ -17,7 +17,7 @@ Compared to my previous Power BI project, this version introduces advanced Power
 
 ## Dashboard File
 
-You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix).  
+You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix).
 
 # Skills Showcased
 
